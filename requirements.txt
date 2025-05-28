@@ -113,7 +113,7 @@ plotly
 preshed
 propcache
 proto-plus
-protobuf
+protobuf>=3.20.0,<4.0.0
 pyarrow
 pyasn1
 pyasn1_modules
@@ -155,7 +155,7 @@ spacy-legacy
 spacy-loggers
 SQLAlchemy
 srsly
-streamlit
+streamlit>=1.28.0
 striprtf
 sympy
 tabulate
